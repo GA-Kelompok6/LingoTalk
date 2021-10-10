@@ -1,7 +1,7 @@
 # Lingotalk
 
-##Axios
+## Axios
 `npm i --save axios`
 
-##React Router Dom
+## React Router Dom
 `npm install --save react-router-dom`

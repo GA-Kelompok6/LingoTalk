@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Details() {
+export default function Edit() {
    return (
       <div>
-         <h1>HI</h1>
+         
       </div>
    )
 }
